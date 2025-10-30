@@ -1,0 +1,2 @@
+# tecnicasdedesenvolvimentosdealgoritimos
+Atividades da Faculdade
